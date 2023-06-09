@@ -8,7 +8,7 @@
 ## Contents
 
 - [Arduino](#arduino)
-- [C/C++)(#cc)
+- [C/C++](#cc)
 - [Elixir](#elixir)
 - [Go](#go)
 - [Hardware](#hardware)

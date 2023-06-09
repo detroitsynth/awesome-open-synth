@@ -5,6 +5,20 @@
 
 #### The current state of this list is just a starting point for mapping out this ecosystem, and clearly does not touch on every single open source audio library on GitHub, but we'll continue developing the list as more libraries are found, released, and otherwise assembled here for everyone's benefit.
 
+## Contents
+
+- [Arduino](#arduino)
+- [C/C++)(#cc)
+- [Elixir](#elixir)
+- [Go](#go)
+- [Hardware](#hardware)
+- [JavaScript](#javascript)
+- [nesC](#nesc)
+- [Rust](#rust)
+- [SuperCollider](#supercollider)
+- [Swift](#swift)
+- [Additional Resources](#additional-resources)
+
 ## Arduino
 | Name                                                                       | Library Type                       | Developer                                                                                 | License | Languages    |
 | :------------------------------------------------------------------------- | :--------------------------------- | :---------------------------------------------------------------------------------------- | :------ | :----------- |
@@ -94,7 +108,7 @@
 | [Waves](https://github.com/pichenettes/eurorack/tree/master/warps)                              | Waveshaper/Modulator      | [Mutable Instruments](https://github.com/pichenettes)                   | Check repo  | None      |
 | [Wobbler](https://github.com/ThisIsNotRocketScience/Eurorack-Modules/tree/master/Production)    | Advanced LFO              | [This is Not Rocket Science](https://github.com/ThisIsNotRocketScience) |             | None      |
 
-## Javascript
+## JavaScript
 | Name                                          | Library Type                            | Developer                                     | License | Languages  |
 | :-------------------------------------------- | :-------------------------------------- | :-------------------------------------------- | :------ | :--------- |
 | [glasgow](https://github.com/asb2m10/glasgow) | programmable note generator for Ableton | [Pascal Gauthier](https://github.com/asb2m10) | None    | JavaScript |
